@@ -1,0 +1,42 @@
+body{
+    background-color: #D86050;
+}
+.text{
+text-align: center;
+    font-family: "B nazanin";
+    background-color: #52AB5B;
+}
+.Input{
+    margin-left: 623px;
+    margin-top: 40px;
+}
+.fal{
+    direction: rtl;
+    background: url(img/bb.png) repeat;
+    padding: 20px;
+    font-family: "IranNastaliq";
+    border-radius: 10px;
+
+}
+.button{
+    background-color: mediumaquamarine;
+    border-color: mediumaquamarine;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000000;
+}
+.footer{
+    background-color: rgba(5,0,2,0.8);
+    width: 100%;
+    height: .7cm;
+    margin-top: 25%;
+    direction: rtl;
+    text-align: center;
+    color: #52AB5B;
+    border-radius: 10px;
+}
+.footerText{
+    margin-top: 1cm;
+    color: #52AB5B;
+}
